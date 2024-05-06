@@ -46,6 +46,7 @@ go run . "Text to output its graphis" [-s or -t or shadow or thinkertoy]
 * The output covers 8 lines for every character-art with an allowance of a single line for spacing at the top of the art
 
 ## Requirements
+* The banner files should be used as they are without any alteration whatsoever.
 * The program requires the user to input atleast 2(two) command line arguments for it to output the art
 * Failuire to adhere to this will lead to the program informing the user of the unavailability and the user can relaunch the program again twith necessary modification.
 
