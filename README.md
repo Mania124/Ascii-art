@@ -50,8 +50,6 @@ go run . "Text to output its graphis" [-s or -t or shadow or thinkertoy]
 * The program requires the user to input atleast 2(two) command line arguments for it to output the art
 * Failuire to adhere to this will lead to the program informing the user of the unavailability and the user can relaunch the program again twith necessary modification.
 
-* This work has been done by @nichotieno (captain) and @hshikuku under the guidance and stewardship of @zone01kisumu
-
 #### usage
 ```bash
 student$ go run . "" | cat -e
